@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okqwii.FoodAPI.Business", "Okqwii.FoodAPI.Business\Okqwii.FoodAPI.Business.csproj", "{E943AE98-7113-4DE9-AB42-EBB06A0E4EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E943AE98-7113-4DE9-AB42-EBB06A0E4EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E943AE98-7113-4DE9-AB42-EBB06A0E4EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E943AE98-7113-4DE9-AB42-EBB06A0E4EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E943AE98-7113-4DE9-AB42-EBB06A0E4EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4106B89-5366-4631-9EE6-AD7F7621E802}
+	EndGlobalSection
+EndGlobal
